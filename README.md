@@ -31,7 +31,7 @@ Application screenshots are available in the [Screenshots](Screenshots/) folder 
 
 ## 📄 Documentation
 
-Refer to the [AromaBlissPOS Project Documentation](Documentation/AromaBlissPOS_Documentation.pdf) for system details, database structure, interface screenshots, form specifications, and validation details.
+Refer to the [AromaBlissPOS Project Documentation](documentation/AromaBlissPOS_project_documentation.pdf) for system details, database structure, interface screenshots, form specifications, and validation details.
 
 ## 🔑 Demo Login Credentials
 
